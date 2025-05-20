@@ -5,7 +5,7 @@ This repo provides the ETL pipeline, to populate the sparkifydb database in AWS 
 
 * This source of data will be useful in helping Sparkify reach some of its analytical goals, for example, finding out songs that have highest popularity or times of the day which is high in traffic.
 
-## Why Redshift?
+## Why CloudVault-DW?
 --- 
 * Redshift is a fully managed, cloud-based, petabyte-scale data warehouse service by Amazon Web Services (AWS). It is an efficient solution to collect and store all data and enables analysis using various business intelligence tools to acquire new insights for businesses and their customers.  
 ![Redshift](screenshots/redshift.PNG) 
